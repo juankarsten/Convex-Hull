@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = A1B745170CCF664A000A6CFB /* ConvexHull */;
+		activeTarget = 8DD76F620486A84900D96B5E /* ConvexHull */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* ConvexHull */,
+		);
+		breakpoints = (
+			A1F9BB780CE4768700C1E277 /* convexhull.cpp:1 */,
+			A1EE796D0CE917D700B1E46F /* English:312 */,
+			A1EE797C0CE91DD000B1E46F /* English:546 */,
+			A1EE797E0CE91DD400B1E46F /* English:550 */,
+			A1EE79800CE91DD500B1E46F /* English:553 */,
+			A1EE79820CE91DD600B1E46F /* English:556 */,
+			A181B38D0CF3BAE800810FE1 /* convexhull.h:305 */,
+			A181B38F0CF3BAF100810FE1 /* convexhull.h:318 */,
+		);
+		codeSenseManager = A1B7451D0CCF6669000A6CFB /* Code sense */;
+		executables = (
+			A1B745170CCF664A000A6CFB /* ConvexHull */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					586,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					120,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 247153237;
+			PBXWorkspaceStateSaveDate = 247153237;
+		};
+		perUserProjectItems = {
+			A168388C0EBB425600B5AE8F /* PBXBookmark */ = A168388C0EBB425600B5AE8F /* PBXBookmark */;
+			A16838930EBB429C00B5AE8F /* PBXTextBookmark */ = A16838930EBB429C00B5AE8F /* PBXTextBookmark */;
+		};
+		sourceControlManager = A1B7451C0CCF6669000A6CFB /* Source Control */;
+		userBuildSettings = {
+			OBJROOT = "$(SYMROOT)";
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 994}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1003}";
+			sepNavVisRect = "{{0, 0}, {869, 593}}";
+			sepNavWindowFrame = "{{68, 95}, {914, 666}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* ConvexHull */ = {
+		activeExec = 0;
+		executables = (
+			A1B745170CCF664A000A6CFB /* ConvexHull */,
+		);
+	};
+	A14DF4D00CD4EFB200192BC8 /* English */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = English;
+		path = /Users/andy/ConvexHull14Nov/convexhull.h;
+		sourceTree = "<absolute>";
+	};
+	A168388C0EBB425600B5AE8F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+	};
+	A16838930EBB429C00B5AE8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1003;
+		vrLoc = 0;
+	};
+	A181B38D0CF3BAE800810FE1 /* convexhull.h:305 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A1FD987E0CF1F00000618E08 /* convexhull.h */;
+		functionName = "convexHull::solveDistance(coordinateList P)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 305;
+		modificationTime = 224700593.789014;
+		state = 0;
+	};
+	A181B38F0CF3BAF100810FE1 /* convexhull.h:318 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A1FD987E0CF1F00000618E08 /* convexhull.h */;
+		functionName = "convexHull::findDistance(coordinate A, coordinate B)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 318;
+		modificationTime = 224700593.791936;
+		state = 0;
+	};
+	A1B745170CCF664A000A6CFB /* ConvexHull */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 0;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ConvexHull;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$gs = 1;
+			$mm0 = 1;
+			$mm1 = 1;
+			$mm2 = 1;
+			$mm3 = 1;
+			$mm4 = 1;
+			$mm5 = 1;
+			$mm6 = 1;
+			$mm7 = 1;
+			$mxcsr = 1;
+			$ss = 1;
+			$xmm0 = 1;
+			$xmm1 = 1;
+			$xmm2 = 1;
+			$xmm3 = 1;
+			$xmm4 = 1;
+			$xmm5 = 1;
+			$xmm6 = 1;
+			$xmm7 = 1;
+		};
+	};
+	A1B7451C0CCF6669000A6CFB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	A1B7451D0CCF6669000A6CFB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A1B745410CCF7603000A6CFB /* convexhull.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {885, 586}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavVisRect = "{{0, 1231}, {899, 585}}";
+			sepNavWindowFrame = "{{269, 98}, {944, 658}}";
+		};
+	};
+	A1EE796D0CE917D700B1E46F /* English:312 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A14DF4D00CD4EFB200192BC8 /* English */;
+		functionName = "convexHull::findTurn(coordinate P, coordinate Q, coordinate R)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 312;
+		modificationTime = 224700593.723336;
+		state = 0;
+	};
+	A1EE797C0CE91DD000B1E46F /* English:546 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A14DF4D00CD4EFB200192BC8 /* English */;
+		functionName = "convexHull::dcHull (coordinateList &P)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 546;
+		modificationTime = 224700593.739551;
+		state = 0;
+	};
+	A1EE797E0CE91DD400B1E46F /* English:550 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A14DF4D00CD4EFB200192BC8 /* English */;
+		functionName = "convexHull::dcHull (coordinateList &P)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 550;
+		modificationTime = 224700593.75569;
+		state = 0;
+	};
+	A1EE79800CE91DD500B1E46F /* English:553 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A14DF4D00CD4EFB200192BC8 /* English */;
+		functionName = "convexHull::dcHull (coordinateList &P)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 553;
+		modificationTime = 224700593.770634;
+		state = 0;
+	};
+	A1EE79820CE91DD600B1E46F /* English:556 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A14DF4D00CD4EFB200192BC8 /* English */;
+		functionName = "convexHull::dcHull (coordinateList &P)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 556;
+		modificationTime = 224700593.773461;
+		state = 0;
+	};
+	A1F9BB780CE4768700C1E277 /* convexhull.cpp:1 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 2;
+		fileReference = A1B745410CCF7603000A6CFB /* convexhull.cpp */;
+		functionName = "convexHull::delCoord()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1;
+		location = ConvexHull;
+		modificationTime = 224700593.702921;
+		state = 0;
+	};
+	A1FD987E0CF1F00000618E08 /* convexhull.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 10542}}";
+			sepNavSelRange = "{7190, 0}";
+			sepNavVisRange = "{7191, 1113}";
+			sepNavWindowFrame = "{{149, 68}, {1051, 710}}";
+		};
+	};
+}

@@ -1,0 +1,59 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 81FEE50010B86A4F00C2F3A2 /* ConvexHull */;
+		activeTarget = 8DD76F620486A84900D96B5E /* ConvexHull */;
+		codeSenseManager = 81FEE50510B86A6E00C2F3A2 /* Code sense */;
+		executables = (
+			81FEE50010B86A4F00C2F3A2 /* ConvexHull */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 280521295;
+			PBXWorkspaceStateSaveDate = 280521295;
+		};
+		sourceControlManager = 81FEE50410B86A6E00C2F3A2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	81FEE50010B86A4F00C2F3A2 /* ConvexHull */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ConvexHull;
+		sourceDirectories = (
+		);
+	};
+	81FEE50410B86A6E00C2F3A2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	81FEE50510B86A6E00C2F3A2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* ConvexHull */ = {
+		activeExec = 0;
+		executables = (
+			81FEE50010B86A4F00C2F3A2 /* ConvexHull */,
+		);
+	};
+}
